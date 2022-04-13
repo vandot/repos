@@ -1,0 +1,28 @@
+Origin: ethersphere.github.io/debian
+Label: ethersphere.github.io/debian
+Codename: jessie
+Date: Wed, 13 Apr 2022 20:35:03 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+MD5Sum:
+ c027ecd5759d2a023ea97356972c114e 474 main/binary-amd64/Packages
+ bfb5f9c0d23dfd1074e30dc36755e39c 368 main/binary-amd64/Packages.gz
+ f5540d915a2271274d4db404b26241dc 142 main/binary-amd64/Release
+ f949793b6243cdb660ee2ceecbd78810 474 main/binary-arm64/Packages
+ e24038977ddd5df24650a94126ede860 366 main/binary-arm64/Packages.gz
+ f68b39e1afe90c63ee081b8bc70a6b63 142 main/binary-arm64/Release
+SHA1:
+ 7fc85d8de69bbaf5ea8d35628c2b377b0efb72d8 474 main/binary-amd64/Packages
+ 03f46f07855b371b7d97d97206de1254b29826eb 368 main/binary-amd64/Packages.gz
+ 53d8f61602ca3d28e70bc492034856d826f47961 142 main/binary-amd64/Release
+ 01a11c8c0d197138abc10d5884944ee9d2e92c49 474 main/binary-arm64/Packages
+ b64ec7e2c8d258e0b36b0ccedd3ba215fa5c71e7 366 main/binary-arm64/Packages.gz
+ e449ee3738874674afd7673bf932ef1a6a1fe372 142 main/binary-arm64/Release
+SHA256:
+ 643adb6f7fa9349be493cac9b95206edb4e7d57f4ebc74bbf7874154934693e7 474 main/binary-amd64/Packages
+ 69836cdb56f57d19a9693b020294555a08cfc813f98d378ea0613b1cc6760dfd 368 main/binary-amd64/Packages.gz
+ 764203edcf9653e07fb104192e9dfc6260ec742d065731082aadf2accbd0ac87 142 main/binary-amd64/Release
+ abd34c3348b4c309979cf1d229e45d38313865cd7798927274ed533c14d52901 474 main/binary-arm64/Packages
+ c5853ba6f28afab6a3350e88a94d17f8998e90f3d756822e4316a3fb5f0a3cd1 366 main/binary-arm64/Packages.gz
+ 06042a5e058b9b206d44fdd32a5aebdbf6840151c8f0e9b4b69959b7d6a4209b 142 main/binary-arm64/Release

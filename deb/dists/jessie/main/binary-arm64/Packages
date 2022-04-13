@@ -1,0 +1,16 @@
+Package: bee
+Version: 1.5.1
+Architecture: arm64
+Maintainer: Janoš Guljaš <janos@ethswarm.org>
+Installed-Size: 42523
+Depends: passwd, ca-certificates
+Homepage: https://swarm.ethereum.org/
+Priority: optional
+Section: 
+Filename: pool/main/b/bee/bee_1.5.1_arm64.deb
+Size: 22102434
+SHA256: b90ad01b0bf1b147e16a1f6a63c7be2eef200c6c0a5faee04b7904729cb1741c
+SHA1: bbcb145c4a78765df26e1fec727212ab7e339b55
+MD5sum: 1dc2aea9cfb715337e24f43e41a03405
+Description: Ethereum Swarm node
+

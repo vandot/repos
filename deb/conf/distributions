@@ -1,0 +1,31 @@
+Origin: ethersphere.github.io/debian
+Label: ethersphere.github.io/debian
+Codename: bullseye
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+SignWith: 4D1620FDFC87DEA76CBD7B617557EADD224440A5
+
+Origin: ethersphere.github.io/debian
+Label: ethersphere.github.io/debian
+Codename: buster
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+SignWith: 4D1620FDFC87DEA76CBD7B617557EADD224440A5
+
+Origin: ethersphere.github.io/debian
+Label: ethersphere.github.io/debian
+Codename: strech
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+SignWith: 4D1620FDFC87DEA76CBD7B617557EADD224440A5
+
+Origin: ethersphere.github.io/debian
+Label: ethersphere.github.io/debian
+Codename: jessie
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+SignWith: 4D1620FDFC87DEA76CBD7B617557EADD224440A5
